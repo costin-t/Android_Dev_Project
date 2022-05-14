@@ -1,6 +1,6 @@
 # Aplicatii-mobile
 Ma numesc Sofonea Costin Theodor - An 1 sem 2 - IFR - Baze de date si tehnologii software. 
-Am realizat pana in prezent din proiect: 
+Am realizat pana in prezent urmatoarele puncte din proiect: 
 1. Operatie cu camera poza
 2. RecyclerView
 3. Navigation Drawer
