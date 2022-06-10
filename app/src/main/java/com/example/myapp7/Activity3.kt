@@ -45,6 +45,7 @@ class Activity3 : AppCompatActivity() {
         val searchView = item?.actionView as SearchView
         searchView.setOnQueryTextListener(object :SearchView.OnQueryTextListener{
             override fun onQueryTextSubmit(query: String?): Boolean {
+                TODO("Not yet implemented")
             }
 
             override fun onQueryTextChange(newText: String?): Boolean {
