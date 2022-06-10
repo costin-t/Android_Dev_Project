@@ -1,5 +1,6 @@
 package com.example.myapp7
 
+import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.PersistableBundle
@@ -33,6 +34,9 @@ class Navigation1 : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         return when(item.itemId) {
+
+
+
             R.id.profile -> {
                 status_text.text = "Profile menu Clicked"
                 true

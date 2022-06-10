@@ -10,8 +10,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        //https://www.youtube.com/watch?v=4bEZ2PlIo8g
-
+        //Activities
         //Open a PhotoApp With a Button
         val secondActivityBtn = findViewById<Button>(R.id.secondActivityBtn)
         secondActivityBtn.setOnClickListener {
