@@ -2,7 +2,7 @@
 Ma numesc Sofonea Costin Theodor - An 1 sem 2 - IFR - Baze de date si tehnologii software. 
 Am realizat pana in prezent urmatoarele puncte din proiect: 
 1. Operatie cu camera poza
-2. RecyclerView
+2. RecyclerView with search view
 3. Navigation Drawer
 4. Android Sharesheet
 5. Implementare de animatie folosind ObjectAnimator si una MotionLayout
